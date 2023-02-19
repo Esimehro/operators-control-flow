@@ -21,17 +21,12 @@ if (classGroup === scienceSubjects ){
 
 // Question 5
 
-let x = 5;
+let num = 32;
+let x = 4;
 let pwr = x ** 2;
 
-function power(num,pwr){
-
-if (pwr < num){
-    console.log('The number ' + pwr + ' is the power of 2 nearest to ' + num)
-} else {
-    console.log('WRONG ANSWER');
-}
-
-}
-
-console.log(power(30, 3));
+    if (pwr < num){
+        console.log('The number ' + pwr + ' is the power of 2 nearest to ' + num)
+    } else {
+        console.log('WRONG ANSWER');
+    };

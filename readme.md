@@ -156,6 +156,19 @@ console.log(a === 7 || b === '3');
 
 E) Bitwise operators
 
+Example 1: let a = 12; 
+           let b = 25; 
+           answer = a | b; 
+           console.log(answer);
+           <!-- 29 -->
+
+
+Example 2:  let g = 12; 
+            let  h = 25; 
+            result = g ^ h; 
+            console.log(result);
+            <!-- 21 -->
+
 
 <!-- Question 4 -->
 
